@@ -18,6 +18,7 @@ const router = createRouter({
     //   component: () => import('../views/AboutView.vue')
     // },
     {
+      //path: '/todolist',
       path: '/todolist',
       name: 'todolist',
       // route level code-splitting
